@@ -1,7 +1,7 @@
 EasyRGBLEDMatrixDriver
 ======================
 
-Super Easy Arduino based serial backpack driver board for 16 x 32 RGB LED Matrix panels. 
+Super Easy Arduino based serial backpack driver board for 16 x 32 RGB LED Matrix panels found here: http://www.adafruit.com/products/420
 
 The code and board  design will let you drive a 16x32 RGB LED matrix panel with a serial port, with some limitations. A example sketch for a master controller is included. 
 
