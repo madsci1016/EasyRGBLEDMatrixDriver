@@ -14,7 +14,7 @@ LIMITATIONS:
 You only get half the resolution of the 16x32 pixel display, only 8x16 which is then scaled to 16x32
 Refresh rate is limited by speed and number of displays on the Serial Port
 
-This library is running off an Arduino is NOT powerful enough to display video, it's really meant for silly animations and Tetris. 
+This library is runs off an Arduino Pro/Uno which is NOT powerful enough to display video. It's really meant for animations, text, and Tetris among other things.  
 
 ![Alt text](/Pics/0948.JPG "Optional title")
 ![Alt text](/Pics/0974.JPG "Optional title")
