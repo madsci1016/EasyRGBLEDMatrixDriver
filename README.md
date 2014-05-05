@@ -13,6 +13,7 @@ Drive multiple panels off 1 serial port to create larger displays.
 ![Alt text](/Pics/0948.JPG "Optional title")
 ![Alt text](/Pics/0974.JPG "Optional title")
 ![Alt text](/Pics/0976.JPG "Optional title")
+![Alt text](/Pics/PCB.png "Optional title")
 
 LIMITATIONS:
 You only get half the resolution of the 16x32 pixel display, only 8x16 which is then scaled to 16x32
